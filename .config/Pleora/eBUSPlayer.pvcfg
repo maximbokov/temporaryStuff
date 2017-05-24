@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<puregevpersistencefile version="1.0">
+  <context name="ebusplayerconfig">1</context>
+  <propertylist name="communicationbrowser" version="1.0">
+    <parameter name="Visibility">Beginner</parameter>
+    <parameter name="Names">FeatureNames</parameter>
+    <parameter name="View">Tree</parameter>
+    <parameter name="Refresh">AutoRefresh</parameter>
+  </propertylist>
+  <propertylist name="devicebrowser" version="1.0">
+    <parameter name="Visibility">Beginner</parameter>
+    <parameter name="Names">FeatureNames</parameter>
+    <parameter name="View">Tree</parameter>
+    <parameter name="Refresh">AutoRefresh</parameter>
+  </propertylist>
+  <propertylist name="streambrowser" version="1.0">
+    <parameter name="Visibility">Beginner</parameter>
+    <parameter name="Names">FeatureNames</parameter>
+    <parameter name="View">Tree</parameter>
+    <parameter name="Refresh">AutoRefresh</parameter>
+  </propertylist>
+  <propertylist name="defaultcommu3vbrowser" version="1.0">
+    <parameter name="Visibility">Beginner</parameter>
+    <parameter name="Names">FeatureNames</parameter>
+    <parameter name="View">Tree</parameter>
+    <parameter name="Refresh">AutoRefresh</parameter>
+  </propertylist>
+  <propertylist name="defaultcommgevbrowser" version="1.0">
+    <parameter name="Visibility">Beginner</parameter>
+    <parameter name="Names">FeatureNames</parameter>
+    <parameter name="View">Tree</parameter>
+    <parameter name="Refresh">AutoRefresh</parameter>
+  </propertylist>
+  <context name="setupversion">1.0.0.0</context>
+  <context name="setuprole">ctrldata</context>
+  <context name="setupdestination">unicastauto</context>
+  <context name="setupunicastspecificport">0</context>
+  <context name="setupdefaultchannel">0</context>
+  <context name="setupunicastip">0.0.0.0</context>
+  <context name="setupunicastport">0</context>
+  <context name="setupmulticastip">239.192.1.1</context>
+  <context name="defaultchannel">1042</context>
+  <context name="filteringdlgversion">1.0.0.0</context>
+  <context name="filterrgbenabled">false</context>
+  <context name="redgain">1.00136</context>
+  <context name="greengain">1.00136</context>
+  <context name="bluegain">1.00136</context>
+  <context name="redoffset">0</context>
+  <context name="greenoffset">0</context>
+  <context name="blueoffset">0</context>
+  <context name="bayerfiltering">simple</context>
+  <context name="histogramversion">1.0.0.0</context>
+  <context name="histogramenabled">false</context>
+  <context name="histogramdarkthreshold">0</context>
+  <context name="histogramlightthreshold">255</context>
+  <context name="saveenabled">0</context>
+  <context name="oneoutof">10</context>
+  <context name="maxrate">100</context>
+  <context name="averagethroughput">1</context>
+  <context name="savethrottleoption">1</context>
+  <context name="savepath"/>
+  <context name="saveformat">bmp</context>
+  <context name="logbufferversion">1.0.0.0</context>
+  <context name="loggenicamenabled">true</context>
+  <context name="logeventsenabled">true</context>
+  <context name="logbufferallenabled">true</context>
+  <context name="logbuffererrorenabled">true</context>
+  <context name="logfilename">/home/maxim/Desktop/EventMonitor.txt</context>
+  <context name="logwritetofileenabled">true</context>
+  <context name="logserialcomenabled">false</context>
+  <context name="logsinkenabled">true</context>
+  <context name="bufferoptionsdlgversion">1.0.0.0</context>
+  <context name="streamingbuffercount">16</context>
+  <context name="streamingdefaultbuffersize">4147200</context>
+  <context name="streamingautoresize">1</context>
+  <propertylist name="displayoptions" version="1.0">
+    <parameter name="vsyncenabled">0</parameter>
+    <parameter name="keeppartialimagesenabled">0</parameter>
+    <parameter name="displaychunkdata">0</parameter>
+    <parameter name="targetframerate">30</parameter>
+    <parameter name="deinterlacing">deinterlacingweavinghalf</parameter>
+  </propertylist>
+</puregevpersistencefile>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE QtCreatorSession>
+<!-- Written by QtCreator 4.2.1, 2017-05-24T08:08:22. -->
+<qtcreator>
+ <data>
+  <variable>CascadeSetActive</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>Color</variable>
+  <value type="QString">#666666</value>
+ </data>
+ <data>
+  <variable>EditorSettings</variable>
+  <value type="QByteArray">AAAAD0VkaXRvck1hbmFnZXJWNAAAAAIAAABsAC8AaABvAG0AZQAvAG0AYQB4AGkAbQAvAFMAbwB1AHIAYwBlAEMAbwBkAGUALwBpAHAAeAB0AG8AbwBsAHMALwBJAHAAeABNAGkAcwBjAC8AQwBNAGEAawBlAEwAaQBzAHQAcwAuAHQAeAB0AAAADAAAAAAYAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAXAAvAGgAbwBtAGUALwBtAGEAeABpAG0ALwBTAG8AdQByAGMAZQBDAG8AZABlAC8AaQBwAHgAdABvAG8AbABzAC8AQwBNAGEAawBlAEwAaQBzAHQAcwAuAHQAeAB0AAAADAAAAAAYAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAgAAAFwALwBoAG8AbQBlAC8AbQBhAHgAaQBtAC8AUwBvAHUAcgBjAGUAQwBvAGQAZQAvAGkAcAB4AHQAbwBvAGwAcwAvAEMATQBhAGsAZQBMAGkAcwB0AHMALgB0AHgAdAAAABwAQwBNAGEAawBlAEwAaQBzAHQAcwAuAHQAeAB0AAAAGENNYWtlUHJvamVjdC5DTWFrZUVkaXRvcgAAAGwALwBoAG8AbQBlAC8AbQBhAHgAaQBtAC8AUwBvAHUAcgBjAGUAQwBvAGQAZQAvAGkAcAB4AHQAbwBvAGwAcwAvAEkAcAB4AE0AaQBzAGMALwBDAE0AYQBrAGUATABpAHMAdABzAC4AdAB4AHQAAAAcAEMATQBhAGsAZQBMAGkAcwB0AHMALgB0AHgAdAAAABhDTWFrZVByb2plY3QuQ01ha2VFZGl0b3IAAADBAAAADWN1cnJlbnRlZGl0b3IAAABcAC8AaABvAG0AZQAvAG0AYQB4AGkAbQAvAFMAbwB1AHIAYwBlAEMAbwBkAGUALwBpAHAAeAB0AG8AbwBsAHMALwBDAE0AYQBrAGUATABpAHMAdABzAC4AdAB4AHQAAAAwAEMATQBhAGsAZQBQAHIAbwBqAGUAYwB0AC4AQwBNAGEAawBlAEUAZABpAHQAbwByAAAAGAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAA==</value>
+ </data>
+ <data>
+  <variable>ProjectDependencies</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+ <data>
+  <variable>ProjectList</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">/home/maxim/SourceCode/ipxtools/CMakeLists.txt</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>StartupProject</variable>
+  <value type="QString">/home/maxim/SourceCode/ipxtools/CMakeLists.txt</value>
+ </data>
+ <data>
+  <variable>value-ActiveMode</variable>
+  <value type="QString">Edit</value>
+ </data>
+ <data>
+  <variable>value-Breakpoints</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>value-DefaultFormats</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+ <data>
+  <variable>value-IndividualFormats</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+ <data>
+  <variable>value-ProjectTree.ExpandData</variable>
+  <valuelist type="QVariantList">
+   <valuelist type="QVariantList">
+    <value type="QString">session</value>
+    <value type="QString">session</value>
+   </valuelist>
+   <valuelist type="QVariantList">
+    <value type="QString">/home/maxim/SourceCode/ipxtools</value>
+    <value type="QString">IpxTools_x86_64</value>
+   </valuelist>
+   <valuelist type="QVariantList">
+    <value type="QString">/home/maxim/SourceCode/ipxtools/IpxMisc</value>
+    <value type="QString">IpxMisc</value>
+   </valuelist>
+  </valuelist>
+ </data>
+ <data>
+  <variable>value-TaskWindow.Categories</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">Task.Category.QmlAnalysis</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>value-TaskWindow.IncludeWarnings</variable>
+  <value type="bool">true</value>
+ </data>
+ <data>
+  <variable>value-Watchers</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>valueKeys</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">ActiveMode</value>
+   <value type="QString">Breakpoints</value>
+   <value type="QString">DefaultFormats</value>
+   <value type="QString">IndividualFormats</value>
+   <value type="QString">ProjectTree.ExpandData</value>
+   <value type="QString">TaskWindow.Categories</value>
+   <value type="QString">TaskWindow.IncludeWarnings</value>
+   <value type="QString">Watchers</value>
+  </valuelist>
+ </data>
+</qtcreator>
